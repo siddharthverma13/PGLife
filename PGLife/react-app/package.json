@@ -1,7 +1,7 @@
 {
-  "homepage": "https://siddharthverma13.github.io/PGLife",
+  "homepage": "http://siddharthverma13.github.io/PGLife",
   "name": "react-app",
-  "version": "0.1.0",
+  "version": "0.1.0", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
